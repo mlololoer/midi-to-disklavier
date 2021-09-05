@@ -41,3 +41,5 @@ processing     └────────────────────�
 ```
 
 In the program's GUI, the duration of this gap can be specified. Furthermore, in the case that create a gap shortens a piano note's duration by too much, the minimum length of a piano note can also be specified.
+
+This program was created due to me watching videos of a certain streamer edit MIDI files by hand, one note at a time, using a mouse and clicking + dragging note durations. Hopefully this saves him some time.
